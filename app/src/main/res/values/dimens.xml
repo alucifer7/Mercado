@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--region FONT-->
+    <dimen name="font_16">16sp</dimen>
+    <dimen name="font_18">18sp</dimen>
+    <dimen name="font_20">20sp</dimen>
+    <dimen name="font_22">22sp</dimen>
+    <dimen name="font_24">24sp</dimen>
+    <!--endregion-->
+
+    <!--region PADDING-->
+    <dimen name="padding_5dp">5dp</dimen>
+    <dimen name="padding_10dp">10dp</dimen>
+    <dimen name="padding_15dp">15dp</dimen>
+    <dimen name="padding_20dp">20dp</dimen>
+    <!--endregion-->
+
+    <!--region MARGIN-->
+    <dimen name="margin_5dp">5dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_15dp">15dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <!--endregion-->
+
+    <!--region MARGIN TOP-->
+    <dimen name="margin_top_5dp">5dp</dimen>
+    <dimen name="margin_top_10dp">10dp</dimen>
+    <dimen name="margin_top_15dp">15dp</dimen>
+    <dimen name="margin_top_20dp">20dp</dimen>
+    <!--endregion-->
+
+    <!--region MARGIN START-->
+    <dimen name="margin_start_5dp">5dp</dimen>
+    <dimen name="margin_start_10dp">10dp</dimen>
+    <dimen name="margin_start_15dp">15dp</dimen>
+    <dimen name="margin_start_20dp">20dp</dimen>
+    <!--endregion-->
+
+    <!--region MARGIN END-->
+    <dimen name="margin_end_5dp">5dp</dimen>
+    <dimen name="margin_end_10dp">10dp</dimen>
+    <dimen name="margin_end_15dp">15dp</dimen>
+    <dimen name="margin_end_20dp">20dp</dimen>
+    <!--endregion-->
+
+    <!--region MARGIN BOTTOM-->
+    <dimen name="margin_bottom_5dp">5dp</dimen>
+    <dimen name="margin_bottom_10dp">10dp</dimen>
+    <dimen name="margin_bottom_15dp">15dp</dimen>
+    <dimen name="margin_bottom_20dp">20dp</dimen>
+    <!--endregion-->
+
+</resources>
